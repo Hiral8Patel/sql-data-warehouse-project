@@ -4,7 +4,7 @@ Welcome to the  **Data Warehouse and Analytics Project** repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analysis.
 
 ---
-## Project Requirnments
+## 🚀 Project Requirnments
 
 ### Building the Data Warehouse
 
@@ -32,10 +32,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## License
+## ✔ License
 
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## About
+## 🌟 About
 
 I'm **Hiral Paresh Patel** B-tech student in the branch of **Aritificial Intelligence and Data Science (AI & DS), 2nd year**.
