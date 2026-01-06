@@ -36,4 +36,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+## About
 
+I'm **Hiral Paresh Patel** a 2nd year engineering student in the branch of **Aritificial Intelligence and Data Science (AI & DS)**.
