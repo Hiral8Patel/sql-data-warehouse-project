@@ -38,4 +38,4 @@ This project is licensed under the [MIT License].(LICENSE). You are free to use,
 
 ## About
 
-I'm **Hiral Paresh Patel** a 2nd year engineering student in the branch of **Aritificial Intelligence and Data Science (AI & DS)**.
+I'm **Hiral Paresh Patel** B-tech student in the branch of **Aritificial Intelligence and Data Science (AI & DS), 2nd year**.
