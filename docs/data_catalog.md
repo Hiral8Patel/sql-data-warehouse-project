@@ -90,5 +90,3 @@ The **Gold Layer follows a Star Schema design**:
 The **fact_sales table references dimension tables using surrogate keys** to enable efficient analytical queries.
 
 ---
-
-It will make your GitHub project look **10x more professional** (like a real Data Engineer portfolio project).
