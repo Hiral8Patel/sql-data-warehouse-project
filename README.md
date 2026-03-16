@@ -31,10 +31,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
-Great Hiral 😄 Here is a **clean, professional README template** you can directly paste into your **GitHub repository**. This format is commonly used in **data engineering and analytics projects** and makes your repo look much more professional.
-
----
-
 # Data Warehouse Project
 
 ## Project Overview
@@ -65,7 +61,6 @@ Business-ready data modeled using **Star Schema** for analytics.
 ---
 
 ## Data Model
-## Data Warehouse Architecture
 
 ![Star Schema](docs/data_flow_diagram.png)
 
@@ -159,16 +154,6 @@ Data-Warehouse-Project
 
 ---
 
-⭐ If you found this project helpful, feel free to explore the repository.
-
----
-
-✅ This README will make your project look **much more professional on GitHub**.
-
----
-
-If you want, I can also show you **one small GitHub trick that makes your README look 10x better (adding architecture diagrams and icons)**.
-
 
 ## ✔ License
 
@@ -176,4 +161,21 @@ This project is licensed under the [MIT License].(LICENSE). You are free to use,
 
 ## 🌟 About
 
-I'm **Hiral Paresh Patel** B-tech student in the branch of **Aritificial Intelligence and Data Science (AI & DS), 2nd year**.
+## About Me
+
+Hi! I'm **Hiral Paresh Patel** 
+
+B.Tech student in **Artificial Intelligence and Data Science (AI & DS)**, currently in **2nd Year at Thakur College of Engineering and Technology**.
+
+I am interested in **Data Engineering, Data Analytics, and Artificial Intelligence**, and enjoy working on projects involving data processing and system design.
+
+**Skills**
+
+* SQL
+* C Programming
+* Java (Basics)
+* Data Warehousing Concepts
+
+**Goal**
+To build strong skills in **Data Engineering and AI** and contribute to building scalable and efficient data systems.
+
