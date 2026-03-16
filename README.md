@@ -100,20 +100,41 @@ These checks help maintain **high data quality in the analytical layer**.
 ## Project Structure
 
 ```
-data-warehouse-project
+Data-Warehouse-Project
 │
-├── datasets
+├── Datasets
+│   ├── source_crm
+│   │   ├── cust_info.csv
+│   │   ├── prd_info.csv
+│   │   └── sales_details.csv
+│   │
+│   └── source_erp
+│       ├── cust_az12.csv
+│       ├── loc_a101.csv
+│       └── px_cat_g1v2.csv
 │
-├── diagrams
-│   ├── architecture.drawio
-│   └── star_schema.drawio
+├── docs
+│   ├── data_flow_diagram.png
+│   ├── high_level_architecture.png
+│   └── integration_model.png
 │
-├── sql
-│   ├── bronze_layer.sql
-│   ├── silver_layer.sql
-│   ├── gold_layer.sql
-│   └── quality_checks.sql
+├── scripts
+│   ├── bronze
+│   │   ├── DDL_bronze.sql
+│   │   └── sp_load_bronze.sql
+│   │
+│   ├── silver
+│   │   ├── DDL_silver.sql
+│   │   └── sp_load_silver.sql
+│   │
+│   └── gold
+│       └── DDL_gold.sql
 │
+├── tests
+│   ├── quality_checks_silver.sql
+│   └── quality_checks_gold.sql
+│
+├── LICENSE
 └── README.md
 ```
 
