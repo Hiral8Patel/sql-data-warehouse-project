@@ -67,7 +67,7 @@ Business-ready data modeled using **Star Schema** for analytics.
 ## Data Model
 ## Data Warehouse Architecture
 
-![Data Model](docs/data_model.png)
+![Star Schema](docs/data_model.png)
 
 The final **Gold Layer** is designed using a **Star Schema** consisting of:
 
