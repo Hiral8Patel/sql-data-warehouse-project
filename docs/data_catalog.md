@@ -80,7 +80,7 @@ This fact table is used for **sales analysis, revenue reporting, and performance
 
 # Relationship Between Tables
 
-![](docs/integration_model.png)
+![]([docs/integration_model.png](https://github.com/Hiral8Patel/sql-data-warehouse-project/blob/main/docs/integration_model.png))
 The **Gold Layer follows a Star Schema design**:
 
 * **dim_customers → fact_sales**
