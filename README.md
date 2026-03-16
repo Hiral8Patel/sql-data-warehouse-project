@@ -167,6 +167,8 @@ Hi! I'm **Hiral Paresh Patel**
 
 B.Tech student in **Artificial Intelligence and Data Science (AI & DS)**, currently in **2nd Year at Thakur College of Engineering and Technology**.
 
+This project was implemented as part of a learning exercise where I independently wrote the SQL transformations while following the architectural concepts of the course.
+
 I am interested in **Data Engineering, Data Analytics, and Artificial Intelligence**, and enjoy working on projects involving data processing and system design.
 
 **Skills**
